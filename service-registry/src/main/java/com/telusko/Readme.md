@@ -1,0 +1,1 @@
+This is spring cloud microservices project that has details about eureka service registry
