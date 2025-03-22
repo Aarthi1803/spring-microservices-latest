@@ -13,8 +13,3 @@ public class ServiceRegistryApplication {
 	}
 
 }
-
-// Added Comments Here
-// Added Second Comments Here
-// Added Comments for git diff
-//Added Comments for git removing file
